@@ -1,0 +1,2 @@
+spring.datasoucer.url:jdbc:mysql://localhost/osdemo?createDatabaseIfNotExist=true&serverTimezone=UTC
+

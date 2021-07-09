@@ -1,0 +1,3 @@
+spring.datasourcer.url=jdbc:mysql://localhost/osdemo?createDatabaseIfNotExist=true&serverTimezone=UTC
+spring.datasourcer.username=root
+spring.datasourcer.password=369963
